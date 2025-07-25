@@ -1,4 +1,4 @@
-public class StudentDetails {
+public class studentdetails {
     public static void main(String[] args) {
         if (args.length != 3) {
             System.out.println("Please provide name, roll number, and branch as arguments.");
